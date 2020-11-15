@@ -18,6 +18,7 @@
 5. head里的meta
    
 **推荐网站:**
+
 [菜鸟教程：HTML5](https://www.runoob.com/html/html-tutorial.html)
 
 ### CSS3
@@ -29,7 +30,8 @@
 6. 最后清除浮动、定位：flex、float
 7. Sass、Less
 
-**推荐网站**
+**推荐网站：**
+
 [菜鸟教程：CSS3](https://www.runoob.com/css3/css3-tutorial.html)
 
 ### ES5/ES6
@@ -41,12 +43,16 @@
 6. 同步异步/回调/promise & async、await
 7. 模块化commenJS,AMD
    
-**推荐网站**
+**推荐网站：**
+
 [阮一峰：JavaScript教程](https://wangdoc.com/javascript/)
+
 [阮一峰：ES6教程](https://es6.ruanyifeng.com/)
+
 [MDN:Web开发技术](https://developer.mozilla.org/zh-CN/docs/Web)
 
-**推荐书籍**
+**推荐书籍：**
+
 + 《JavaScript DOM编程艺术》
 + 《JavaScript高级程序设计》（红宝书）
   
@@ -61,9 +67,13 @@
 ## 面经
 1. 掘金
 [前端基础拾遗90问](https://juejin.im/post/6844904116552990727)
+
 [如何优雅地使用icon](https://juejin.im/post/6844903517564436493)
+
 [网络知识点灵魂拷问——前端面试必问](https://juejin.im/post/6864175613209640973)
+
 [48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592)
+
 [深入Node.js的模块加载机制，手写require函数](https://juejin.im/post/6866973719634542606)
 
 2. 牛客
@@ -73,7 +83,11 @@
 [做前端的你有没有觉得很吃力？ - 邵锁的回答 - 知乎](https://www.zhihu.com/question/425782106/answer/1543007211)
 ## 学习路线
 ==函数库->组件库->框架react->工程化webpack==
+
 [前端学习路线及面试经验](https://juejin.im/post/6844903602062884872)
+
 [关于前端学习路线的一些建议（内含经典自测题）](https://juejin.im/post/6844903929755484167)
+
 [2020年Web前端入门的自学路线](https://www.cnblogs.com/qianguyihao/p/8776837.html)
+
 [2020年Web前端最新导航（常见前端框架、前端大牛）](https://www.cnblogs.com/qianguyihao/p/10701923.html)
