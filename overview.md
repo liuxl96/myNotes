@@ -86,12 +86,12 @@
     [做前端的你有没有觉得很吃力？ - 邵锁的回答 - 知乎](https://www.zhihu.com/question/425782106/answer/1543007211)
 ## 学习路线
 
-    **函数库->组件库->框架react->工程化webpack**
+**函数库->组件库->框架react->工程化webpack**
 
-    [前端学习路线及面试经验](https://juejin.im/post/6844903602062884872)
+[前端学习路线及面试经验](https://juejin.im/post/6844903602062884872)
 
-    [关于前端学习路线的一些建议（内含经典自测题）](https://juejin.im/post/6844903929755484167)
+[关于前端学习路线的一些建议（内含经典自测题）](https://juejin.im/post/6844903929755484167)
 
-    [2020年Web前端入门的自学路线](https://www.cnblogs.com/qianguyihao/p/8776837.html)
+[2020年Web前端入门的自学路线](https://www.cnblogs.com/qianguyihao/p/8776837.html)
 
-    [2020年Web前端最新导航（常见前端框架、前端大牛）](https://www.cnblogs.com/qianguyihao/p/10701923.html)
+[2020年Web前端最新导航（常见前端框架、前端大牛）](https://www.cnblogs.com/qianguyihao/p/10701923.html)
