@@ -57,37 +57,39 @@
 + 《JavaScript高级程序设计》（红宝书）
   
 ### 计网
-+ http协议
-+ 跨域请求常用的几种方式、优缺点
-+ 常见的安全隐患xss攻击等及解决方案
+1. http协议
+2. 跨域请求常用的几种方式、优缺点
+3. 常见的安全隐患xss攻击等及解决方案
 
 ### 数据结构
-+ 手写各种排序
-+ leetcode中等难度的算法题
+1. 手写各种排序
+2. leetcode中等难度的算法题
 ## 面经
 1. 掘金
-[前端基础拾遗90问](https://juejin.im/post/6844904116552990727)
+    [前端基础拾遗90问](https://juejin.im/post/6844904116552990727)
 
-[如何优雅地使用icon](https://juejin.im/post/6844903517564436493)
+    [如何优雅地使用icon](https://juejin.im/post/6844903517564436493)
 
-[网络知识点灵魂拷问——前端面试必问](https://juejin.im/post/6864175613209640973)
+    [网络知识点灵魂拷问——前端面试必问](https://juejin.im/post/6864175613209640973)
 
-[48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592)
+    [48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592)
 
-[深入Node.js的模块加载机制，手写require函数](https://juejin.im/post/6866973719634542606)
+    [深入Node.js的模块加载机制，手写require函数](https://juejin.im/post/6866973719634542606)
 
 2. 牛客
-[秋招经验](https://www.nowcoder.com/discuss/258810)
+
+    [秋招经验](https://www.nowcoder.com/discuss/258810)
 
 3. 其他
-[做前端的你有没有觉得很吃力？ - 邵锁的回答 - 知乎](https://www.zhihu.com/question/425782106/answer/1543007211)
+   
+    [做前端的你有没有觉得很吃力？ - 邵锁的回答 - 知乎](https://www.zhihu.com/question/425782106/answer/1543007211)
 ## 学习路线
-==函数库->组件库->框架react->工程化webpack==
+    ==函数库->组件库->框架react->工程化webpack==
 
-[前端学习路线及面试经验](https://juejin.im/post/6844903602062884872)
+    [前端学习路线及面试经验](https://juejin.im/post/6844903602062884872)
 
-[关于前端学习路线的一些建议（内含经典自测题）](https://juejin.im/post/6844903929755484167)
+    [关于前端学习路线的一些建议（内含经典自测题）](https://juejin.im/post/6844903929755484167)
 
-[2020年Web前端入门的自学路线](https://www.cnblogs.com/qianguyihao/p/8776837.html)
+    [2020年Web前端入门的自学路线](https://www.cnblogs.com/qianguyihao/p/8776837.html)
 
-[2020年Web前端最新导航（常见前端框架、前端大牛）](https://www.cnblogs.com/qianguyihao/p/10701923.html)
+    [2020年Web前端最新导航（常见前端框架、前端大牛）](https://www.cnblogs.com/qianguyihao/p/10701923.html)
