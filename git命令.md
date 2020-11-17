@@ -36,7 +36,8 @@
    `git reset HEAD demo.txt`
    `git checkout -- demo.txt`
 3. when已提交到版本库&撤销：
-   **版本回退，前提是没有推送到远程库push
+   
+   版本回退，前提是没有推送到远程库push
 ## 远程仓库（先本地后远程）
 1. github创建仓库
 2. git remote add origin 仓库地址：关联远程库
