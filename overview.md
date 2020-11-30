@@ -5,7 +5,7 @@
 + 基础：HTML5、CSS3、ES5/ES6
 + 库：jQuery、Ajax
 + 框架：Bootstrap、React、~~Vue~~
-+ ~~前后端分离：node.js~~
++ 前后端分离：node.js
 + 打包工具：Webpack、~~Gult~~、Sass
 + 包管理：npm
 + 版本控制工具：git
